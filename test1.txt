@@ -19,7 +19,11 @@ class A {
 }
 
 
+//new feature 2
+class D{
 
+
+}
 
 =======
 80%
