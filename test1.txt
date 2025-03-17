@@ -1,13 +1,22 @@
 Pankaj Sir Academy
 Pankaj Sir Academy
 
+<<<<<<< Updated upstream
 
 
 class B {
+=======
+//Feature 1
+class A {
+>>>>>>> Stashed changes
 
 
 
 }
+<<<<<<< Updated upstream
 
 
 
+=======
+80%
+>>>>>>> Stashed changes
